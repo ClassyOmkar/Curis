@@ -23,10 +23,10 @@
 
 ## 🔄 Workflows 🛠️
 ### 🏥 Overall Workflow
-<img src="workflow/Overall Workflow.png" alt="Overall Workflow" width="100%">
+<img src="workflow/Overall Workflow/Overall Workflow.png" alt="Overall Workflow" width="100%">
 
 ### 🤖 Multi-Agent Workflow
-<img src="workflow/Multi-Agent-Workflow.png" alt="Multi-Agent Workflow" width="100%">
+<img src="workflow/Multi-Agent-Workflow/Multi-Agent-Workflow.png" alt="Multi-Agent Workflow" width="100%">
 
 ---
 
